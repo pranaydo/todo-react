@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # todoAppBasic
 # todo-react
 # todo-react
+# todo-react
